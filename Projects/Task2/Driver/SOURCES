@@ -1,0 +1,10 @@
+TARGETNAME=ScanReg
+TARGETPATH=OBJ
+TARGETTYPE=DRIVER
+SOURCES=Driver.c \
+	Event.c \
+	Memory.c \
+	NamedPipe.c \
+	Registry.c \
+	Thread.c \
+	Scanner.c
